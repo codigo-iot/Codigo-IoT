@@ -5,7 +5,7 @@ En Código IoT tenemos un compromiso con el software libre, por lo que en este r
 Nos encontramos desarrollando el contenido para el curso Internet de las Cosas de Samsung Innovation Campus.
 
 Los profesores con los que contamos son:
-
+-[Hugo Vargas](https://github.com/hugoescalpelo)
 
 Puedes encontrar mas detalles sobre este proyecto en los siguientes enlaces:
 
