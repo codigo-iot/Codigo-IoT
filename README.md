@@ -7,6 +7,7 @@ Nos encontramos desarrollando el contenido para el curso Internet de las Cosas d
 Los profesores con los que contamos son:
 
  - [Hugo Vargas](https://github.com/hugoescalpelo)
+ - [Paloma Vilchis](https://github.com/PalomaVilchis)
 
 Puedes encontrar mas detalles sobre este proyecto en los siguientes enlaces:
 
