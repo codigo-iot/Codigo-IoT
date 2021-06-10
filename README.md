@@ -15,9 +15,7 @@ Los instructores principales y gestores de este repositorio son:
 Puedes encontrar mas detalles sobre este proyecto en los siguientes enlaces:
 
 
- - [Diplomado: Curso IoT Samsung Innovation Campus] (https://www.codigoiot.com/curso/seminario-iot-de-samsung-innovation-campus/)
- - [Samsung lanza Innovation Campus en México, un espacio para que los
-   jóvenes aprovechen las tecnologías del
-   futuro](https://news.samsung.com/mx/samsung-lanza-innovation-campus-en-mexico-un-espacio-para-que-los-jovenes-aprovechen-las-tecnologias-del-futuro)
+ - [Diplomado: Curso IoT Samsung Innovation Campus](https://www.codigoiot.com/curso/seminario-iot-de-samsung-innovation-campus/)
+ - [Samsung lanza Innovation Campus en México, un espacio para que los jóvenes aprovechen las tecnologías del futuro](https://news.samsung.com/mx/samsung-lanza-innovation-campus-en-mexico-un-espacio-para-que-los-jovenes-aprovechen-las-tecnologias-del-futuro)
    [26-11-2020]
  - [Resultados del curso Samsung Internet de las Cosas de Samsung Innovation Campus](https://www.codigoiot.com/samsung-innovation-campus-resultados/) [26-11-2021]
