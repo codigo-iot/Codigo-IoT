@@ -1,4 +1,4 @@
-## Bienvenido al repositorio de [Código IoT](https://www.codigoiot.com/)
+## Bienvenido al repositorio de  [Código IoT](https://www.codigoiot.com/)
 
 Código IoT es una plataforma de cursos y talleres de Internet de las Cosas (IoT) en español. 
  
