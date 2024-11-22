@@ -6,9 +6,6 @@ En Código IoT creemos que una mejor sociedad se construye con acceso a conocimi
 
 Contamos con talleres para diferentes microcontroladores, sensores y actuadores, que en suma solucionan problemas del mundo real.  También encontrarás contenido para el Curso Internet de las Cosas de Samsung Innovation Campus.
 
-Los instructores principales y gestores de este repositorio son:
-
- - [Hugo Vargas](https://github.com/hugoescalpelo)
 
 Puedes encontrar mas detalles sobre este proyecto en los siguientes enlaces:
 
